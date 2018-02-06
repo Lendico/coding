@@ -1,0 +1,32 @@
+[
+  {
+    "investorId": "DE-38",
+    "IBAN": "DE439530239023123",
+    "BIC": "WELADZ231"
+  },
+  {
+    "investorId": "DE-233313",
+    "IBAN": "DE220993439347232",
+    "BIC": "KLZ343ADEF"
+  },
+  {
+    "investorId": "AT-9921",
+    "IBAN": "AT054395834534542",
+    "BIC": "ZYH3123BZ32"
+  },
+  {
+    "investorId": "AT-23498",
+    "IBAN": "AT9423424782412223",
+    "BIC": "LKJH2323AS3"
+  },
+  {
+    "investorId": "DE-43535",
+    "IBAN": "DE092345743855454",
+    "BIC": "BLN453254AS"
+  },
+  {
+    "investorId": "DE-238260",
+    "IBAN": "DE015458745435225",
+    "BIC": "WELADE423"
+  }
+]
